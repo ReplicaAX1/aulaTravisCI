@@ -3,7 +3,7 @@ def inicializar():
 	for i in range(3):
 		linha = []
 		for j in range(3):
-			linha.append(".")
+			linha.append("X")
 		tab.append(linha)
 	return tab
 
@@ -12,4 +12,4 @@ def main():
 	print(jogo)
 
 if __name__ == "__main__":
-	maine()
+	main()
