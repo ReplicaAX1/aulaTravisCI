@@ -1,2 +1,2 @@
 # aulaTravisCI
-Akim Augusto Almeida Silva
+Akim Augusto
